@@ -1,0 +1,6 @@
+{
+  "name": "AptiQuiz: Placement Arena",
+  "description": "Real-time multiplayer aptitude quiz arena for college placement practice with live WebSocket gameplay, race-track leaderboards, college leagues, and AI question authoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

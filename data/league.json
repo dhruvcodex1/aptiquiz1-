@@ -1,0 +1,116 @@
+[
+  {
+    "collegeName": "IIT Bombay",
+    "topPlayerScores": [
+      9800,
+      9450,
+      9200,
+      8900,
+      8750,
+      8500,
+      8400,
+      8100,
+      7900,
+      7800
+    ],
+    "collegeScore": 8680,
+    "totalPlayers": 22,
+    "totalGames": 8,
+    "updatedAt": 1791390029442
+  },
+  {
+    "collegeName": "BITS Pilani",
+    "topPlayerScores": [
+      9600,
+      9300,
+      9050,
+      8800,
+      8600,
+      8450,
+      8200,
+      8000,
+      7750,
+      7600
+    ],
+    "collegeScore": 8535,
+    "totalPlayers": 22,
+    "totalGames": 8,
+    "updatedAt": 1791401236591
+  },
+  {
+    "collegeName": "NIT Trichy",
+    "topPlayerScores": [
+      9500,
+      9150,
+      8900,
+      8700,
+      8400,
+      8250,
+      8100,
+      7900,
+      7600,
+      7400
+    ],
+    "collegeScore": 8390,
+    "totalPlayers": 22,
+    "totalGames": 8,
+    "updatedAt": 1791261542784
+  },
+  {
+    "collegeName": "DTU Delhi",
+    "topPlayerScores": [
+      9300,
+      8950,
+      8700,
+      8500,
+      8200,
+      8050,
+      7800,
+      7600,
+      7450,
+      7200
+    ],
+    "collegeScore": 8175,
+    "totalPlayers": 22,
+    "totalGames": 8,
+    "updatedAt": 1791318070913
+  },
+  {
+    "collegeName": "VIT Vellore",
+    "topPlayerScores": [
+      9100,
+      8800,
+      8500,
+      8300,
+      8100,
+      7900,
+      7700,
+      7500,
+      7300,
+      7100
+    ],
+    "collegeScore": 8030,
+    "totalPlayers": 22,
+    "totalGames": 8,
+    "updatedAt": 1791287520914
+  },
+  {
+    "collegeName": "Simulation Institute of Technology",
+    "topPlayerScores": [
+      2287,
+      2250,
+      1997,
+      1909,
+      1742,
+      1725,
+      1559,
+      1528,
+      1308,
+      990
+    ],
+    "collegeScore": 1730,
+    "totalPlayers": 50,
+    "totalGames": 1,
+    "updatedAt": 1791452761203
+  }
+]
